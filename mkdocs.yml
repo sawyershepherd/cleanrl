@@ -55,6 +55,7 @@ nav:
   - Advanced:
     - advanced/hyperparameter-tuning.md
     - advanced/resume-training.md
+    - advanced/fiber-simulator.md
   - Community:
     - contribution.md
     - cleanrl-supported-papers-projects.md

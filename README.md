@@ -164,6 +164,7 @@ You may also use a prebuilt development environment hosted in Gitpod:
 | ✅ [Random Network Distillation (RND)](https://arxiv.org/abs/1810.12894) |  [`ppo_rnd_envpool.py`](https://github.com/vwxyzjn/cleanrl/blob/master/cleanrl/ppo_rnd_envpool.py),  [docs](/rl-algorithms/ppo-rnd/#ppo_rnd_envpoolpy) |
 | ✅ [Qdagger](https://arxiv.org/abs/2206.01626)  |  [`qdagger_dqn_atari_impalacnn.py`](https://github.com/vwxyzjn/cleanrl/blob/master/cleanrl/qdagger_dqn_atari_impalacnn.py),  [docs](https://docs.cleanrl.dev/rl-algorithms/qdagger/#qdagger_dqn_atari_impalacnnpy) |
 |  | [`qdagger_dqn_atari_jax_impalacnn.py`](https://github.com/vwxyzjn/cleanrl/blob/master/cleanrl/qdagger_dqn_atari_jax_impalacnn.py), [docs](https://docs.cleanrl.dev/rl-algorithms/qdagger/#qdagger_dqn_atari_jax_impalacnnpy) |
+| ✅ [TD(λ)](https://link.springer.com/article/10.1007/BF00115009) |  [`td_lambda_chess.py`](https://github.com/vwxyzjn/cleanrl/blob/master/cleanrl/td_lambda_chess.py),  [docs](https://docs.cleanrl.dev/rl-algorithms/td-lambda-chess/#td_lambda_chesspy) |
 
 
 ## Open RL Benchmark
